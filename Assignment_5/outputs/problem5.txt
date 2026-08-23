@@ -1,0 +1,4 @@
+
+Problem 5
+Input: 12345
+Enter a number: The reverse of 12345 is: 54321

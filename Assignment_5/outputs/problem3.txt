@@ -1,0 +1,4 @@
+
+Problem 3
+Input: 20
+Enter N: There are 6 numbers divisible by 3 between 1 and 20.

@@ -1,0 +1,3 @@
+Problem 1
+Input: 10
+Enter N: The sum from 1 to 10 is: 55
