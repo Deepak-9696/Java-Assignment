@@ -1,0 +1,6 @@
+
+Question 3
+Enter Principal Amount: 10000
+Enter Rate of Interest: 8
+Enter Time (Years): 2
+Enter Principal Amount: Enter Rate of Interest: Enter Time (Years): Simple Interest = 1600.0

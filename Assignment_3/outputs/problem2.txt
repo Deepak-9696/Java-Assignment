@@ -1,0 +1,8 @@
+
+Question 2
+Enter Name: Rahul Sharma
+Enter Email: rahul@gmail.com
+Enter Name: Enter Email: Student Details
+---------------
+Name : Rahul Sharma
+Email : rahul@gmail.com
