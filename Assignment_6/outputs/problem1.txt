@@ -1,0 +1,5 @@
+Problem 1
+Input: 5
+10 20 30 40 50
+Enter the number of elements: Enter 5 elements:
+The sum of array elements is: 150

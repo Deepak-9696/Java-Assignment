@@ -1,0 +1,6 @@
+
+Problem 2
+Input: 6
+12 45 7 89 34 23
+Enter the number of elements: Enter 6 elements:
+The largest element in the array is: 89
