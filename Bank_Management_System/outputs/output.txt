@@ -1,0 +1,6 @@
+Account Number: ACC1001
+Account Holder Name: Rahul Sharma
+Available Balance: 5000.0
+Depositing: 2000.0
+Withdrawal: 3000.0
+Updated Balance: 4000.0
