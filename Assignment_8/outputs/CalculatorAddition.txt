@@ -1,0 +1,3 @@
+Addition of two integers (10, 20): 30
+Addition of three integers (10, 20, 30): 60
+Addition of two decimal numbers (10.5, 20.5): 31.0
