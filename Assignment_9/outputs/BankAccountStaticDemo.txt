@@ -1,0 +1,36 @@
+BANK ACCOUNT DETAILS
+=====================
+Account Number      : ACC1001
+Account Holder Name : Rahul Sharma
+Balance             : 5000.00
+Interest Rate       : 4.5%
+
+Account Number      : ACC1002
+Account Holder Name : Priya Singh
+Balance             : 7500.00
+Interest Rate       : 4.5%
+
+Account Number      : ACC1003
+Account Holder Name : Aman Verma
+Balance             : 6200.00
+Interest Rate       : 4.5%
+
+Changing interest rate using BankAccount.setInterestRate(6.0)
+
+UPDATED ACCOUNT DETAILS
+=======================
+Account Number      : ACC1001
+Account Holder Name : Rahul Sharma
+Balance             : 5000.00
+Interest Rate       : 6.0%
+
+Account Number      : ACC1002
+Account Holder Name : Priya Singh
+Balance             : 7500.00
+Interest Rate       : 6.0%
+
+Account Number      : ACC1003
+Account Holder Name : Aman Verma
+Balance             : 6200.00
+Interest Rate       : 6.0%
+

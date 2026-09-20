@@ -1,0 +1,6 @@
+AUTOBOXING DEMONSTRATION
+========================
+int     -> Integer   : 100
+double  -> Double    : 45.75
+char    -> Character : A
+boolean -> Boolean   : true
