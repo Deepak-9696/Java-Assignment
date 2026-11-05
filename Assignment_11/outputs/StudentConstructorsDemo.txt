@@ -1,0 +1,14 @@
+DEFAULT CONSTRUCTOR
+-------------------
+Student ID   : 0
+Student Name : Not Assigned
+Course       : Not Assigned
+Age          : 0
+
+PARAMETERIZED CONSTRUCTOR
+-------------------------
+Student ID   : 101
+Student Name : Deepak
+Course       : Computer Science
+Age          : 21
+

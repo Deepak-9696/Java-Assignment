@@ -1,0 +1,9 @@
+PROJECT MANAGER DETAILS USING MULTILEVEL INHERITANCE
+=====================================================
+Employee ID       : 701
+Employee Name     : Deepak
+Basic Salary      : 85000.00
+Department        : Technology
+Team Size         : 8
+Project Name      : Campus Management System
+Project Duration  : 12 months

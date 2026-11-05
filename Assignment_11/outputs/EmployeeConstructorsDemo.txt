@@ -1,0 +1,21 @@
+DEFAULT CONSTRUCTOR
+-------------------
+Employee ID : 0
+Name        : Not Assigned
+Designation : Not Assigned
+Salary      : 0.00
+
+PARAMETERIZED CONSTRUCTOR
+-------------------------
+Employee ID : 501
+Name        : Deepak
+Designation : Software Developer
+Salary      : 65000.00
+
+COPY CONSTRUCTOR
+----------------
+Employee ID : 501
+Name        : Deepak
+Designation : Software Developer
+Salary      : 65000.00
+

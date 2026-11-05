@@ -1,0 +1,7 @@
+STUDENT DETAILS USING SINGLE INHERITANCE
+=========================================
+Name  : Deepak
+Age   : 21
+Email : deepak@example.com
+Student ID : 101
+Course     : Computer Science
